@@ -1,0 +1,28 @@
+#<center>初学者教程</center>
+##1.linux系统安装
+####安装版本：Ubuntu 16.04
+下载链接：
+https://pan.baidu.com/s/1bdK9Oc6BNxoEQUGLwSGRNg 
+提取码: 5aws
+####U盘启动教程：
+https://blog.csdn.net/cqfdcw/article/details/79522509
+####软件UltralISO
+链接：https://pan.baidu.coms/1WEBXo814sBRdsroZX6vexA 
+提取码: ntf2 
+该软件需要激活，内部有激活器（如果不会请自行百度）
+####温馨提示：
+安装ubuntu系统，密码可以设置的少一点，输入方便
+
+##2.配置ubuntu系统的环境
+指导教程：安装完ubuntu之后的11件事
+该教程链接：
+https://pan.baidu.com/s/1fZy8HWw04Em-DwzaW27KoA 提取码: 9rn4 
+具体软件下载链接：ubuntu装机软件
+链接：
+##3.安装ROS
+请参照ROSwiki来安装
+具体的网页链接：
+http://wiki.ros.org/kinetic/Installation/Ubuntu
+安装完请参考ros的公开课和bilibili的视频，学习ros的前面两章
+##4.熟悉linux的操作系统
+请阅读**linux入门很简单**和**玩转linux操作系统**

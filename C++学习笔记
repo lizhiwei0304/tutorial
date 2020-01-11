@@ -1,0 +1,4 @@
+# <center> C++学习笔记
+1.构造函数后加冒号是初始化表达式；
+
+	inline Line_::Line_(double k,double b) : A_(k),B_(-1),C_(b),k_(k),b_(b),isSlope_(true),isLine_(true) {}
